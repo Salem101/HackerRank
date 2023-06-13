@@ -21,7 +21,7 @@ cpp 65
 python 50
 */
 
-/CODE: 
+//CODE: 
 
 import java.util.Scanner;
 
