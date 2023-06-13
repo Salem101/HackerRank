@@ -21,7 +21,7 @@ Note: If you use the nextLine() method immediately following the nextInt() metho
 */
 
 
-/CODE: 
+//CODE: 
 import java.util.Scanner;
 
 public class Solution {
